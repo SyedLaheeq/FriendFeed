@@ -1,0 +1,7 @@
+raw_data/
+processed_data/
+.venv/
+.idea/
+.ipynb_checkpoints/
+graph/
+.DS_Store
